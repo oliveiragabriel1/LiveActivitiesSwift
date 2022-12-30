@@ -2,7 +2,6 @@
 
 This demo app was developed for Create Live Activities With ActivityKit on iOS 16.1.
 
-Click [here](https://betterprogramming.pub/create-live-activities-with-activitykit-on-ios-16-beta-4766a347035b) to reach Medium article.
 
 ## Live Activities Lock Screen
 ![187858195-ae55730f-5018-4310-96ef-e188d84eb22b](https://user-images.githubusercontent.com/10993355/190917762-24cd198e-4691-490d-978e-f89d94d248fa.jpg)
